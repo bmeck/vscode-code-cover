@@ -1,4 +1,4 @@
-all: doc
+all:
 	@mkdir -p out
 	@babel lib\
 		--optional runtime\
