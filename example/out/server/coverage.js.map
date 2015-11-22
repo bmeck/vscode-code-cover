@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../server/coverage.js"],"names":[],"mappings":";;WAAgB,CAAC,CAAC,EAAC,CAAC,EAAC,CAAC,CAAC;AAAvB,yCAAyB;AAApB,MAAM,CAAC,WAAA,CAAA;CACX","file":"coverage.js","sourcesContent":["for (const x of [1,2,3]) {\n}\n"]}

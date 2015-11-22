@@ -1,0 +1,4 @@
+{
+	"coverage": ["../coverage/lcov.info"],
+	"sourcemapped": ["../out/server/**.js"]
+}
