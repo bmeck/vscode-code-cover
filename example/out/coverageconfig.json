@@ -1,3 +1,4 @@
 {
-	"coverage": ["../coverage/lcov.info"]
+	"coverage": ["../coverage/lcov.info"],
+	"automaticallyShow": true
 }

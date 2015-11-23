@@ -1,0 +1,6 @@
+{
+	"coverage": ["../coverage/lcov.info"],
+	"sourcemapped": ["../out/**.js"],
+	"automaticallyShow": true,
+	"ignore": ["*.json"]
+}

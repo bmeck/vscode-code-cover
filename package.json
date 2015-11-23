@@ -42,6 +42,7 @@
     "generator-runner": "^2.2.0",
     "glob": "^6.0.1",
     "lcov-parse": "0.0.10",
+    "minimatch": "^3.0.0",
     "source-map": "^0.5.3",
     "source-map-url": "^0.4.0"
   }
