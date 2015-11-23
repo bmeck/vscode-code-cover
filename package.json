@@ -39,6 +39,7 @@
   },
   "dependencies": {
     "babel-runtime": "^6.2.0",
+    "generator-runner": "^2.2.0",
     "glob": "^6.0.1",
     "lcov-parse": "0.0.10",
     "source-map": "^0.5.3",
