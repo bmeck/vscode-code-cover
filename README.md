@@ -2,6 +2,8 @@
 
 This plugin will look for a coverageconfig.json recusively up from the active document. Once it is found it will resolve.
 
+[Video](https://www.youtube.com/watch?v=umXk8o_7Dss)
+
 ## coverageconfig.json
 
 ```
