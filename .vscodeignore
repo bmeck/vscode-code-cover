@@ -4,3 +4,9 @@ test/**
 .gitignore
 jsconfig.json
 vsc-extension-quickstart.md
+example/**
+lib/**
+.babelrc
+jsconfig.json
+Makefile
+npm-debug.log
