@@ -1,0 +1,17 @@
+{
+    "version": "0.1.0",
+    "command": "npm",
+    "isShellCommand": true,
+    "showOutput": "always",
+    "args": ["run"],
+    "tasks": [
+        {
+            // Run build 'Cmd+Shift+B' 
+            "taskName": "build",
+            "suppressTaskName": false,
+            "args": [],
+            "isWatching": true,
+            "problemMatcher": "$tsc"
+        }
+    ]
+}
