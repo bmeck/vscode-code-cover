@@ -1,7 +1,7 @@
 {
   "name": "vscode-code-cover",
   "description": "Hightlights lines with code coverage",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "license": "MIT",
   "publisher": "bradleymeck",
   "displayName": "Code Cover",
@@ -32,18 +32,19 @@
     ]
   },
   "devDependencies": {
-    "babel-cli": "^6.2.0",
-    "babel-plugin-transform-runtime": "^6.1.18",
-    "babel-preset-es2015": "^6.1.18",
-    "vscode": "0.10.x"
+    "babel-cli": "^6.4.5",
+    "babel-plugin-transform-runtime": "^6.4.3",
+    "babel-preset-es2015": "^6.3.13",
+    "vscode": "^0.11.0"
   },
   "dependencies": {
-    "babel-runtime": "^6.2.0",
+    "babel-runtime": "^6.3.19",
     "generator-runner": "^2.2.0",
-    "glob": "^6.0.1",
+    "glob": "^6.0.4",
     "lcov-parse": "0.0.10",
     "minimatch": "^3.0.0",
     "source-map": "^0.5.3",
-    "source-map-url": "^0.4.0"
+    "source-map-url": "^0.4.0",
+    "babel-polyfill": "^6.3.14"
   }
 }
