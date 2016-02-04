@@ -9,13 +9,16 @@ This plugin will look for a coverageconfig.json recusively up from the active do
 ```
 {
 	"coverage": ["../coverage/lcov.info"],
-	"sourcemapped": ["../out/server/**.js"]
+	"sourcemapped": ["../out/server/**.js"],
+	"showCovered": true
 }
 ```
 
 It expects `coverage` to be an array of filepaths to LCOV files.
 
 It allows `sourcemapped` to be an array of file patterns that may contain sourcemaps to the files in the directory where `coverageconfig.json` is placed.
+
+`showCovered` Covered statements are highlighted in green.
 
 Due to code coverage being applied to transformed files in JS, there is often a difference in the generated files that are executed and the original source files that a developer edits.
 
