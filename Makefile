@@ -1,6 +1,8 @@
+BABEL=node_modules/.bin/babel
 all:
+	npm install
 	@mkdir -p out
-	@babel lib\
+	@$(BABEL) lib\
 		--optional runtime\
 		--out-dir out\
 	 	--source-maps true
