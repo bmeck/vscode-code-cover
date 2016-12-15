@@ -1,4 +1,6 @@
 /out/
-/.vscode
 node_modules
 .DS_Store
+*.vsix
+.vscode-test
+npm-debug.log

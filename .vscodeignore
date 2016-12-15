@@ -10,3 +10,4 @@ lib/**
 jsconfig.json
 Makefile
 npm-debug.log
+out/**/*.map
